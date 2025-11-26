@@ -1,0 +1,1 @@
+import '..';   // initialize i18next once
